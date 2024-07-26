@@ -32,7 +32,7 @@ def sum_times(t1, t2):
 
     return sum
 
-    return sum
+ 
 
 def valid_time(t):
     """check for the validity of the time object attributes:
@@ -60,4 +60,4 @@ def change_time(time, seconds):
             time.minute += 60
             time.hour -= 1
     return None
-    return None
+   
