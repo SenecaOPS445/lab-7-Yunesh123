@@ -63,5 +63,4 @@ def sec_to_time(seconds):
     time = Time()
     time.hour, time.minute = divmod(minutes,60)
     minutes, time.second = divmod(seconds, 60)
-    
     return time
