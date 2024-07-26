@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Student ID: sshrestha83
+# Student ID: yadhikari
 class Time:
     """Simple object type for time of the day.
     data attributes: hour, minute, second
