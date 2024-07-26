@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Student ID: sshrestha83
+# Student ID: yadhikari
 def function1():
     global schoolName
     schoolName = 'SICT'
